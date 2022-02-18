@@ -43,7 +43,7 @@ _Below is an example of how you can install on your local and start to using thi
 1. Clone the repo 
 
 ``` sh
-git clone 
+gh repo clone CatVeiga/Html_signature
 ```
 
 2. Copy and paste on your client email
@@ -73,7 +73,7 @@ If you have any suggestions that would make this project better, fork the repo a
 ## Contact 
 Catarina Veiga - cveigaplay@gmail.com
 
-Project Link: []()
+Project Link: [HTML_Signature](https://github.com/CatVeiga/Html_signature)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
